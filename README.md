@@ -6,3 +6,6 @@ In our project we have trained networks to perform semantic segmentation and com
 •	AlexNet 
 •	VGG-16
 •	3.VGG-19
+
+## REPO DETAILS 
+MATLAB is used, for training the model. The code folder contains all the code with the necessary functions required are in the functions folder inside it.
